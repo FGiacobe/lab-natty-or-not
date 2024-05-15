@@ -4,7 +4,7 @@
 
 > Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Olá pessoal, Fábio da InSght aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
 
 ## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
@@ -20,29 +20,34 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Projeto Multi IAs ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Projetos de ebook, podcast e vídeos gerados por diferentes IAs com intuito de aprendizagem e conhecimento das ferramentas.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- ChatGPT
+- Copilot
+- Gemini
+- ElevenLabs
+- D-ID
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Através dos prompts do ChatGPT e Gemini foram elaborados os títulos e os conteúdos,
+com o Copilot Designer foram criadas as imagens de capa, com ElevenLabs foi sintetizado
+a voz do audio do podcast e com o D-ID foi criado o vídeo utilizando o audio gerado na ElevenLabs e um avatar. 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+- [E-BOOK](https://github.com/FGiacobe/ebook_powerbi_git_github.git)
+- [Podcast](https://github.com/FGiacobe/prompts-for-podcast-generate-by-ia.git)
+- [Vídeo (Avatar Virtual)](https://studio.d-id.com/share?id=baa3bcd172457bae4290454e30746174&utm_source=copy)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Utilizando as ferramentas em suas versões **free** o resultado é mediano, no caso de vídeos deixando perceptível
+o uso de personagens **fake** devido aos movimentos repetitivos e o sincronismo de fala. No caso de imagens as imperfeições
+podem ser contornadas com um pouco de conhecimento em design gráfico, já os textos com as perguntas certas o resultado é excelente.
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+---
 
 ## Links Interessantes
 
