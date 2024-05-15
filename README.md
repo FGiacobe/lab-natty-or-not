@@ -16,10 +16,7 @@ Olá pessoal, Fábio da InSght aqui! Inspirado na hype _"Natty or Not"_ do fisic
     2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
     3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
 1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
+---
 # Projeto Multi IAs ;)
 
 ## 📒 Descrição
@@ -40,7 +37,7 @@ a voz do audio do podcast e com o D-ID foi criado o vídeo utilizando o audio ge
 ## 🚀 Resultados
 - [E-BOOK](https://github.com/FGiacobe/ebook_powerbi_git_github.git)
 - [Podcast](https://github.com/FGiacobe/prompts-for-podcast-generate-by-ia.git)
-- [Vídeo (Avatar Virtual)](https://studio.d-id.com/share?id=baa3bcd172457bae4290454e30746174&utm_source=copy)
+- [Vídeo (Avatar Virtual)](https://studio.d-id.com/share?id=baa3bcd172457bae4290454e30746174)
 
 ## 💭 Reflexão (Opcional)
 Utilizando as ferramentas em suas versões **free** o resultado é mediano, no caso de vídeos deixando perceptível
